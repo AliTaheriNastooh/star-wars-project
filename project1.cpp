@@ -6,7 +6,7 @@
 #include<time.h>
 #include <conio.h>
 #include<TermMgr.h>
-
+///
 void game(int,int,int,int,int,int);
 
 //#define xGame 50
