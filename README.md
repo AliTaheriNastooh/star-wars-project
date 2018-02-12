@@ -1,6 +1,7 @@
 # star-wars-project
 implemet with C and C++
-you can move your spacecraft by arrow key
+
+You can move your spacecraft by arrow key
 
 if you enter the e key the change the hape of shot
 
